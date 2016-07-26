@@ -6,17 +6,13 @@ body {
 
 .container {
     width: 1060px;
+    height: 950px;
     margin: 0 auto;
     box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
     background-color: white;
-    height: 1024px;
 }
-
-.logo {
-    width: 145px;
-    height: 40px;
-    background-image: url("../img/logo.png");
-    margin-top: 50px;
+img {
+    margin-top: 62px;
     margin-left: 45px;
 }
 /*Nav header begin*/
@@ -25,7 +21,7 @@ body {
     width: 966px;
     background-color: white;
     background-image: linear-gradient(to top, #444343 0%, #5e5e5e 100%);
-    margin-top: 40px;
+    margin-top: 38px;
     margin-left: 46px;
 }
 .nav a{
